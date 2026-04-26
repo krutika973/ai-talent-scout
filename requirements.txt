@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn
+langchain
+openai
+python-docx
+pdfplumber
+faiss-cpu
+pandas
+numpy
+python-multipart
