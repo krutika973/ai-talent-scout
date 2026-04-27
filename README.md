@@ -103,12 +103,6 @@ Final Score = (0.7 × Match Score) + (0.3 × Interest Score)
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your Streamlit deployed URL here)
-
----
-
 ## 🎥 Demo Video
 
 (https://drive.google.com/file/d/1id2Hpv1IlliGMjKhoTUk2kkfqVopoPm6/view?usp=sharing)
