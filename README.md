@@ -103,12 +103,6 @@ Final Score = (0.7 × Match Score) + (0.3 × Interest Score)
 
 ---
 
-## 🎥 Demo Video
-
-(https://drive.google.com/file/d/1id2Hpv1IlliGMjKhoTUk2kkfqVopoPm6/view?usp=sharing)
-
----
-
 ## 📂 Repository
 
 👉 https://github.com/krutika973/ai-talent-scout
